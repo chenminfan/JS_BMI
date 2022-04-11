@@ -1,5 +1,6 @@
 {
-    "git.ignoreLimitWarning": true,
-    "editor.fontLigatures": null,
-    "eslint.runtime": ""
+  "git.ignoreLimitWarning": true,
+  "editor.fontLigatures": null,
+  "eslint.runtime": "",
+  "liveServer.settings.port": 5501
 }
